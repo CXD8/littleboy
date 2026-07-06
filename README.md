@@ -28,6 +28,10 @@ A communist handheld gaming console based on the ESP-32 S3 capable of running mu
 ### Power
 - Standard 5V 10000mAh power bank
 
+### 3D Printed Case
+![top shell](./top_shell.png)
+![bottom shell](./bottom_shell.png)
+
 ---
 
 ## Multiplayer System
